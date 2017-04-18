@@ -1,0 +1,22 @@
+{
+  "name": "blog_assignment_mongoose",
+  "version": "1.0.0",
+  "description": "Write a blog that pulls data from mongoose and deploys to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthintoncoding/Blogging_with_Mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthintoncoding/Blogging_with_Mongoose/issues"
+  },
+  "homepage": "https://github.com/mthintoncoding/Blogging_with_Mongoose#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
